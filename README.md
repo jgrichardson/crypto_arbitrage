@@ -11,7 +11,7 @@ Apply three phases of financial analysis to determine if any arbitrage opportuni
 * Python csv library: Support for CSV file reading and writing
 
 ## Usage
-To use this arbitrage application simply clone the repository and run the crypto_arbitrage.py script using the following command.
+To use this arbitrage application simply clone the repository and open the crypto_arbitrage.ipynb script in the Jupyter Lab application.
 
 ```python crypto_arbitrage.py```
 
